@@ -1,5 +1,4 @@
 data/domains/*/*.json
-data/domains/coding/
 data/domains/rl/
 data/domains/video/
 data/domains/image/
