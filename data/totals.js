@@ -1,1 +1,1 @@
-window.SITE_TOTAL = {"visible": 21105063, "cjk": 15054834, "domains": 4, "updated": "2026-11-16 23:10"};
+window.SITE_TOTAL = {"visible": 25604449, "cjk": 18281102, "domains": 5, "updated": "2026-11-17 08:51"};

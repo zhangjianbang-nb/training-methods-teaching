@@ -1,4 +1,3 @@
 data/domains/*/*.json
-data/domains/video/
 data/domains/image/
 data/domains/audio/
